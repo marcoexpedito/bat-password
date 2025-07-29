@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio prático na plataforma [D
 
 ## 📌 Descrição do Desafio
 
-> "Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos vistos até aqui e replique (ou melhore) este projeto prático. Crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o que pode fazer toda diferença nas entrevistas técnicas!" 😎
+O desafio consiste em desenvolver um aplicativo mobile capaz de gerar senhas aleatórias de forma segura, com personalização de tamanho e funcionalidade para copiar o resultado para a área de transferência. A proposta visa consolidar habilidades práticas com React Native, compondo um projeto real e funcional que possa ser adicionado ao portfólio do desenvolvedor. 😎
 
 Este projeto é uma oportunidade prática de aplicar habilidades em:
 
